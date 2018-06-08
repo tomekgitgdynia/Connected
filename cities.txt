@@ -1,0 +1,8 @@
+Reno, Denver
+Reno, Detroit
+Minneapolis, Detroit
+San Francisco, Los Angeles
+Minneapolis    , San Francisco
+New York, Newark
+Orlando, Atlanta
+Atlanta, Minneapolis
